@@ -1,2 +1,2 @@
 # simple-agent
-Simple AI Agent built with Node.js and Groq demonstrating the core agent loop using LLM tool calling. The agent can reason, invoke custom tools (calculator and current time), observe tool outputs, and generate a final response through iterative execution.
+A beginner-friendly AI Agent built with Node.js and Groq as a learning project to understand the fundamentals of Agentic AI. It demonstrates LLM tool calling, custom function execution, and the iterative Think → Act → Observe workflow that powers AI agents, all implemented from scratch without relying on frameworks like LangChain or Mastra.
